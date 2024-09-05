@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://amicksalg.github.io/sitemap.html.gz
+Sitemap: https://amicksalg.github.io/app/sitemap.html.gz
+Sitemap: https://amicksalg.github.io/assets/sitemap.html.gz
+Sitemap: https://amicksalg.github.io/css/sitemap.html.gz
+Sitemap: https://amicksalg.github.io/includes/sitemap.html.gz
+Sitemap: https://amicksalg.github.io/item/sitemap.html.gz
+Sitemap: https://amicksalg.github.io/src/sitemap.html.gz
